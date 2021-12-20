@@ -1,6 +1,6 @@
 # Documentation
 
-### The loadstring returns a library. This library I will be referring to as TALib.
+### The loadstring returns a library. I will be referring to this library as TALib.
 ## TALib:
 ### `CreateCommand`:
 ```lua
